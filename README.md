@@ -3,6 +3,9 @@
  ### Fearx-OxRob is a comprehensive robbery script for FiveM. It enhances the default ox_inventory stealing system with realistic timers, 
 animations, anti-cheat protection, and Discord logging. Players must have their hands up to be robbed, creating authentic roleplay scenarios while preventing exploits and modder abuse.
 
+Preview
+https://r2.fivemanage.com/reN0iza3vc4oGjJ0nDgay/Untitledvideo-MadewithClipchamp(2).mp4
+
 ### Features:
 
 - Hands Up Requirement - Victims must surrender before being robbed
@@ -22,5 +25,3 @@ animations, anti-cheat protection, and Discord logging. Players must have their 
 
 
 
-Preview
-https://r2.fivemanage.com/reN0iza3vc4oGjJ0nDgay/Untitledvideo-MadewithClipchamp(2).mp4
